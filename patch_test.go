@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	json "github.com/evanphx/json-patch/json"
+	json "github.com/skuid/json-patch/json"
 )
 
 func reformatJSON(j string) string {

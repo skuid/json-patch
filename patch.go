@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	json "github.com/evanphx/json-patch/json"
+	json "github.com/skuid/json-patch/json"
 )
 
 const (

@@ -1,7 +1,7 @@
 package jsonpatch
 
 import (
-	"github.com/evanphx/json-patch/json"
+	"github.com/skuid/json-patch/json"
 )
 
 // GetAPI returns the json API instance being used

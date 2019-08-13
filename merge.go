@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	json "github.com/evanphx/json-patch/json"
+	json "github.com/skuid/json-patch/json"
 )
 
 func merge(cur, patch *lazyNode, mergeMerge bool) *lazyNode {
